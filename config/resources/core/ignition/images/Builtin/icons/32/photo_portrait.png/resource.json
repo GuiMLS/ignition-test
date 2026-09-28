@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "photo_portrait.png"
+  ],
+  "attributes": {
+    "width": 32,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "import",
+      "timestamp": "2026-09-28T11:22:22Z"
+    },
+    "size": 1213,
+    "lastModificationSignature": "01ad178aa115f2c437009ec682278a7957ab32cffa9673249141bb1a8d349141",
+    "height": 32
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "type": "internal"
+  },
+  "settings": {
+    "secrets": {
+      "github-ignition-test-deploy-key": {
+        "ciphertext": {
+          "ciphertext": "vd7_9aVNWk3z90avP14xaU2DNHrT76huSZakQkDYCjQd2oZpR8eVeMNE1_wOt1kCkx59CHLgJTrrY_QOs6ISNKxo8UduyFZyJsTU4VydBKKn1Q4R2FbcnosuRgVWfdRObA2_4rWTjrDoPGKI-zd-uQ7bFvPNArf_u7wdx2_ibIsMkEFxMRDymwbs_WXoEL0DclzEQ7M9kjzKhWwGq8_gflUJ1Jqm8Sk1lZdJSZ9LUkH7FDf-US3v9OB4gxW09Msx0FqZVaBb5Lk3qTW_maVZuJo9uzog8b6kW6nBQqSqepGgx6TPZGROv8iNRqmp6iMEY5erybdHxyPqZ0JYTL9QDvLhr2UxL1iByy0U0cHeM7857dZiWh474TQQ7rnz275z0A",
+          "encrypted_key": "yB4wd74hG-DWx3flGxLbGHHc-M9Ttx3tdC33hJajHPC7ZdIlnwwrvA",
+          "iv": "ujCmFZ00VtDd4iUd",
+          "protected": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwiaWF0IjoxNzkwNTk4MzQ4LCJ6aXAiOiJERUYifQ",
+          "tag": "AlNSWVzdP8K0CCOI87UDAg"
+        },
+        "description": ""
+      }
+    }
+  }
+}

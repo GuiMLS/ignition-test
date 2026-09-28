@@ -1,0 +1,13 @@
+{
+  "hostPattern": "github.com",
+  "id": 1,
+  "ignitionUser": "admin",
+  "password": {
+    "data": {
+      "providerName": "ssh-test",
+      "secretName": "github-ignition-test-deploy-key"
+    },
+    "type": "Referenced"
+  },
+  "userName": "ignition-gateway"
+}

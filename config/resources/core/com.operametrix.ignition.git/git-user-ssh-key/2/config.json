@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "ignitionUser": "admin",
+  "keyName": "Config repository (github.com)",
+  "sshKeySecret": {
+    "data": {
+      "providerName": "ssh-test",
+      "secretName": "github-ignition-test-deploy-key"
+    },
+    "type": "Referenced"
+  }
+}

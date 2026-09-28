@@ -20,7 +20,7 @@
   "testOnReturn": false,
   "testWhileIdle": false,
   "translator": "MSSQL",
-  "username": "dummy2",
+  "username": "dummy3_from_git",
   "validationQuery": "SELECT 1",
   "validationSleepTime": 10000
 }

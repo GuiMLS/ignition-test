@@ -1,7 +1,0 @@
-{
-  "branch": "main",
-  "httpsCredentialId": 0,
-  "id": 1,
-  "sshKeyId": 2,
-  "uri": "git@github.com:GuiMLS/ignition-test.git"
-}

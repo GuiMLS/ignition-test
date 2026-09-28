@@ -6,11 +6,11 @@
     "secrets": {
       "github-ignition-test-deploy-key": {
         "ciphertext": {
-          "ciphertext": "vd7_9aVNWk3z90avP14xaU2DNHrT76huSZakQkDYCjQd2oZpR8eVeMNE1_wOt1kCkx59CHLgJTrrY_QOs6ISNKxo8UduyFZyJsTU4VydBKKn1Q4R2FbcnosuRgVWfdRObA2_4rWTjrDoPGKI-zd-uQ7bFvPNArf_u7wdx2_ibIsMkEFxMRDymwbs_WXoEL0DclzEQ7M9kjzKhWwGq8_gflUJ1Jqm8Sk1lZdJSZ9LUkH7FDf-US3v9OB4gxW09Msx0FqZVaBb5Lk3qTW_maVZuJo9uzog8b6kW6nBQqSqepGgx6TPZGROv8iNRqmp6iMEY5erybdHxyPqZ0JYTL9QDvLhr2UxL1iByy0U0cHeM7857dZiWh474TQQ7rnz275z0A",
-          "encrypted_key": "yB4wd74hG-DWx3flGxLbGHHc-M9Ttx3tdC33hJajHPC7ZdIlnwwrvA",
-          "iv": "ujCmFZ00VtDd4iUd",
-          "protected": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwiaWF0IjoxNzkwNTk4MzQ4LCJ6aXAiOiJERUYifQ",
-          "tag": "AlNSWVzdP8K0CCOI87UDAg"
+          "ciphertext": "8hShIo0M76jNcii_FKK2blx3fO9p-a3ST0Gdwo3bso-Txpu7rorhJ5qpmDmk46vKlThmugjzhFJrjD5QrQ6Z2WIJk2fKMpl8s-jT436RQOVAXu1S3CbI0USNB3L0s-GMHRdSImRBenM7PUfiQiBS41apDsIcb4i4IrA-4nM2r4z9wSakt5p1obJDX78fWAdyviTi6wJ3aVaAm2tCr20w8dc6oNgEodeJYxyTnnSitDAtEGh0Oe-viIClDO8gGVZXX-1NaXqqN5ZmLOSwaitykXDulUEAr1dSKIl5nn0naZ3Zikt5_rJlLhrnKbIbpzPeThxU8ReN4AU0A7eFc0agRFFPZ1cnkH1VghCsHOLX4LmZI9rNJuhss9vWv4ToFClNnLMH",
+          "encrypted_key": "frXVffsi-7QM3M21yk8AV32zK_YI0BIL464OZn36xedd5b0IIMoHNQ",
+          "iv": "DkYUAjI9o4yAjr6Y",
+          "protected": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwiaWF0IjoxNzkwNjAwODU2LCJ6aXAiOiJERUYifQ",
+          "tag": "PyDF8YmSwI38OIIdgMHIzg"
         },
         "description": ""
       }
